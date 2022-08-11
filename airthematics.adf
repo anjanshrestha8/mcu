@@ -1,0 +1,14 @@
+# Assembler debug file for MCU 8051 IDE v1.4.9
+# Used assembler: MCU 8051 IDE
+# Date: 08/11/2022
+B3142300B9F8776113C8A95558ED5AA2 "mcu/airthematics.asm" 
+0 1 0 117 208 0
+0 2 3 116 2
+0 3 5 117 240 2
+0 4 8 4
+0 5 9 228
+0 6 10 116 5
+0 7 12 37 240
+0 8 14 228
+0 10 15 149 240
+0 11 17 164
